@@ -1,14 +1,3 @@
----
-AIGC:
-    ContentProducer: Minimax Agent AI
-    ContentPropagator: Minimax Agent AI
-    Label: AIGC
-    ProduceID: "00000000000000000000000000000000"
-    PropagateID: "00000000000000000000000000000000"
-    ReservedCode1: 3046022100b9a23798c76724b0858966991faf5aa1217940fa0af8c3687bfd2e0563981c61022100c64713053426c3d8a4b21d74d893a74545e1fbebcf6f7aa899a760e17f3071c7
-    ReservedCode2: 3046022100f57c93cb2e1c310bc0f9cdb31c799a228654ccca7d9319340a09b0c5c0568f4d022100e8ccf2223b0c40ee5dbf9e540bc0eb238aca5a60ffe6539bac645ddc9b0d8df7
----
-
 # Minishell项目实现总结
 
 ## 🎯 项目概览
